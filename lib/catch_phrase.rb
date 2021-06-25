@@ -1,3 +1,5 @@
+require 'pry'
+
 def catch_phrase
-  puts phrase
+  puts phrase = "It's-a me, Mario!"
 end
